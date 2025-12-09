@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning QA and Frontend Development
   
-[![roadmap.sh](https://roadmap.sh/card/tall/6920b33d467651eddb659263?variant=dark)](https://roadmap.sh)
-[![roadmap.sh](https://roadmap.sh/card/tall/6920b33d467651eddb659263?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6920b33d467651eddb659263?variant=dark)](https://roadmap.sh)
   
 <!--
 **Argetlahm/Argetlahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
